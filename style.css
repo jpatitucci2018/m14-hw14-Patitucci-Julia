@@ -1,6 +1,6 @@
 :root {
-  --text-color: #5d20ac;
-  --background-color: #eed9ec; 
+  --text-color: #351099;
+  --background-color: #bfe6ec; 
 }
 
 body {
@@ -14,4 +14,6 @@ footer {
   padding-right: 20px;
 }
 
-
+h2 {
+  padding-top: 20px;
+}
